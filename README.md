@@ -66,7 +66,7 @@ O **NLW Agents** é um projeto frontend desenvolvido durante o evento NLW com fo
 # ⚙️ Como Executar
 
 ```bash
-git clone https://github.com/seuusuario/nlw-agents.git
+git clone https://github.com/aamoorim/nlw-agents.git
 ```
 
 Depois, abra o arquivo `index.html` no navegador  
